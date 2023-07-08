@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SEShipCompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\MagicaVoxel-0.99.6.4-win64\\export\\ConeHull2.xraw\""
+    }
+  }
+}
